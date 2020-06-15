@@ -1,9 +1,9 @@
-seleniumeasy.com/test is providing various functionalities, from simple checkboxes and dropdowns to progress bars and alerts. Below you can see it's content structured as a tree menu.
+seleniumeasy.com/test is providing various functionalities, from simple checkboxes and dropdowns to progress bars and alerts. It's content is structured as a tree menu.
 
 As a testing approach:
-* a page elements class will be created for each page (marked in italics below);
+* an elements class will be created for each page (marked in italics below);
 * a test class will be created for each category (marked in bold below);
-* multiple elements page classes will be used in their test classes corresponding categories.
+* multiple elements classes will be used in their test classes corresponding categories.
 
  Tree Menu:
 * All Examples
