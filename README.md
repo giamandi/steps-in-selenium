@@ -1,7 +1,7 @@
 seleniumeasy.com/test is providing various functionalities, from simple checkboxes and dropdowns to progress bars and alerts. It's content is structured as a tree menu.
 
 As a testing approach:
-* an elements class will be created for each page (marked in italics below);
+* an elements class will be created for each page (marked in italic below);
 * a test class will be created for each category (marked in bold below);
 * multiple elements classes will be used in their test classes corresponding categories.
 
